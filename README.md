@@ -1,3 +1,5 @@
 # SwiftExampleCommand
 
-A description of this package.
+```
+% swift run SwiftExampleCommand ./Example-Info.plist
+```
